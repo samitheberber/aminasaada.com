@@ -9,3 +9,4 @@ testing stuffs here:
 
 {{ social }}
 
+{%- include social.html -%}
