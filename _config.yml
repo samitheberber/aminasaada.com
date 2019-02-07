@@ -2,4 +2,8 @@ title: Amina Saada
 author: Amina Saada
 email: amina@aminasaada.com
 
+minima:
+  social_links:
+    instagram: aminasaada
+
 theme: minima
