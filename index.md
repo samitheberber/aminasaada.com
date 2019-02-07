@@ -2,4 +2,4 @@
 layout: home
 ---
 
-# Amina's homepage
+Welcome to Amina's homepage
